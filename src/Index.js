@@ -34,7 +34,6 @@ const Index = () => {
         <View style={{ flexDirection: "row" }}>
           <TextInput
             style={{
-              height: 40,
               margin: 12,
               borderWidth: 1,
               padding: 10,
